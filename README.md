@@ -6,9 +6,7 @@ It highlights my journey, the work I’ve done, and the technologies I’m passi
 
 ---
 
-## ✨ Features  
-
-- 📱 **Responsive Design** for desktop, tablet, and mobile  
+## ✨ Features 
 - 🎨 Smooth **animations and hover effects**  
 - 📂 **Project showcase** with live demo & GitHub repo links  
 - 👨‍💻 **About section** with skills and background  
@@ -25,7 +23,7 @@ It highlights my journey, the work I’ve done, and the technologies I’m passi
 
 ## 🚀 Live Demo  
 
-👉 [View Portfolio Website](https://your-portfolio-link.com)  
+👉 [View Portfolio Website](https://awaistabaruk.github.io/Personal-Portfolio/)  
 
 ---
 
@@ -43,7 +41,6 @@ It highlights my journey, the work I’ve done, and the technologies I’m passi
 
 Working on this portfolio helped me strengthen my knowledge of:  
 
-- ✅ Responsive Web Design principles  
 - ✅ CSS Flexbox  
 - ✅ Writing structured and reusable HTML & CSS code  
 - ✅ Presenting projects in a professional way  
@@ -54,8 +51,7 @@ Working on this portfolio helped me strengthen my knowledge of:
 
 If you like this project, don’t forget to:  
 
-- ⭐ **Star this repo**  
-- **Fork it**  
+- ⭐ **Star this repo**   
 - 📝 **Share your valuable feedback**  
 
 ---
