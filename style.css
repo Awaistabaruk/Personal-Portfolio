@@ -545,6 +545,123 @@ align-items: center;
 
 
 
+/* about responsive */
+
+@media (max-width: 500px) {
+    nav {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+    }
+
+    .navname {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .nameabout {
+        font-size: 22px;
+        padding: 0;
+    }
+
+    .options {
+        flex-direction: row;
+        width: 100%;
+        height: auto;
+        gap: 8px;
+    }
+
+    .hover2 a {
+        font-size: 16px;
+    }
+
+    .aboutview {
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .frame {
+        flex-direction: column;
+        width: 95%;
+        height: auto;
+    }
+
+    .design {
+        width: 100%;
+        height: auto;
+        padding: 10px;
+    }
+
+    .design img {
+        width: 90%;
+        height: auto;
+    }
+
+    .info {
+        width: 100%;
+        height: auto;
+        padding: 10px;
+    }
+
+    .abouttitle {
+        font-size: 28px;
+        height: auto;
+        justify-content: center;
+    }
+
+    .aboutpara,
+    .aboutpara2 {
+        font-size: 14px;
+        height: auto;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .personalinfo {
+        flex-direction: column;
+        height: auto;
+        gap: 10px;
+    }
+
+    .PI {
+        width: 100%;
+        height: auto;
+    }
+
+    .areas {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .part2 {
+        height: 320px;
+        padding: 10px 0;
+    }
+
+    .skills {
+               flex-direction: column;
+        width: 95%;
+        height: 288px;
+        gap: 0px;
+    }
+
+    .aboutskills {
+        width: 100%;
+        height: auto;
+    }
+
+    .areas2h {
+        font-size: 17px;
+        height: 78px;
+    }
+
+    .areas2 {
+        font-size: 14px;
+        height: auto;
+        padding: 6px;
+    }
+}
+
 
 
 
